@@ -120,9 +120,7 @@
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-12 col-md-10 col-xl-8">
-                <div class="__name">AgRO</div>
-
-                <h2 class="__title text-white">Farming company</h2>
+                <h2 class="__title text-white">KOLIYOR FARMS</h2>
 
                 <p class="text-center">
                   The point of using Lorem Ipsum is that it has a more-or-less
